@@ -1,0 +1,6 @@
+Create a Nginx Pod
+Mount a config map in nginx root directory with the requested code
+create a load balancer service
+put the public ip address of LB in the youranswer file
+run ./checkmywork 
+Enjoy
